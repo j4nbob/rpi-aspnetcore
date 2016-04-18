@@ -1,5 +1,5 @@
 # rpi-aspnetcore
-Raspberry PI docker image for ASP.Net Core
+Raspberry PI docker image for ASP.Net Core (Mono based)
 
 This allows you to run ASP.NET Core web applications on your Raspberry Pi with Docker.
 

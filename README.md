@@ -9,7 +9,7 @@ This allows you to run ASP.NET Core web applications on your Raspberry Pi with D
 2. Write this image to your SD card
 3. Login to your pi with default pi credentials
 4. Clone your ASP.NET core web application to any directory
-5. Edit your Dockerfile to use rootdevelop/rpi-aspnetcore:latest as FROM image
+5. Edit your Dockerfile to use *rootdevelop/rpi-aspnetcore:latest* as FROM image
 6. Build your docker file ("docker build -t myrepo/myappname:0.1 .")
 7. Run your ASP.NET application in Docker & Enjoy!
 
